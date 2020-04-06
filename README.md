@@ -6,11 +6,11 @@
 - yarn start
 
 # Tecnologias Utilizadas
-React
-Create React App
-Styled Components
-Flexbox Grid (CSS)
-Redux (Duck Pattern)
-React Hooks
-React Testing Library
-CircleCI (CI)
+- React
+- Create React App
+- Styled Components
+- Flexbox Grid (CSS)
+- Redux (Duck Pattern)
+- React Hooks
+- React Testing Library
+- CircleCI (CI)
