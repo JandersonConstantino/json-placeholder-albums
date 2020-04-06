@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/JandersonConstantino/photos-frontend.svg?style=svg)](https://circleci.com/gh/JandersonConstantino/photos-frontend)
+[![CircleCI](https://circleci.com/gh/JandersonConstantino/json-placeholder-albums.svg?style=svg)](https://circleci.com/gh/JandersonConstantino/json-placeholder-albums)
 
 # Para executar o projeto
 - yarn
